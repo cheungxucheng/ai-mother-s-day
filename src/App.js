@@ -27,13 +27,13 @@ const App = () => {
           <img src="https://www.pngkey.com/png/full/0-4691_clip-transparent-stock-flowers-clipart-transparent-transparent-watercolor.png" className="w-40 sm:w-50" />
         </div>
         <div className="absolute -bottom-5 -left-5 animate-bounce-slow">
-          <img src="/pinkflower.png" className="w-40 sm:w-50" />
+          <img src="./pinkflower.png" className="w-40 sm:w-50" />
         </div>
         <div className="absolute top-1/2 -left-10 animate-bounce-slower text-xl sm:text-3xl">
-          <img src="/moreflowers.png" className="w-40 sm:w-50" />
+          <img src="./moreflowers.png" className="w-40 sm:w-50" />
         </div>
         <div className="absolute top-1/2 -right-16 animate-bounce-slow text-xl sm:text-3xl">
-          <img src="/rose.png" className="w-40 sm:w-50" />
+          <img src="./rose.png" className="w-40 sm:w-50" />
         </div>
       </motion.div>
 
@@ -62,27 +62,27 @@ const App = () => {
               
         <div className="absolute bottom-52 left-[100px] mt-8 sm:mt-12 z-10">
           <img
-            src="/pig.png"
+            src="./pig.png"
             className="w-52 sm:w-92 h-auto mx-auto drop-shadow-xl"
           />
         </div>
 
         <div className="absolute bottom-48 right-14 mt-8 sm:mt-12 z-10">
           <img
-            src="/lowqualitydog.png"
+            src="./lowqualitydog.png"
             className="w-40 sm:w-52 h-auto mx-auto drop-shadow-xl"
           />
         </div>
         <div className="absolute bottom-[199px] left-[86px] mt-8 sm:mt-12 z-10">
           <img
-            src="/snake.png"
+            src="./snake.png"
             className="w-[100px] sm:w-92 h-auto mx-auto drop-shadow-xl"
           />
         </div>
         {/* Cute Mouse Art */}
         <div className="absolute bottom-[172px] left-[115px] mt-8 sm:mt-12 z-10">
           <img
-            src="/istockphoto-955952520-612x612.png"
+            src="./istockphoto-955952520-612x612.png"
             alt="Cute Mouse Clipart"
             className="w-40 sm:w-52 h-auto mx-auto drop-shadow-xl"
           />
