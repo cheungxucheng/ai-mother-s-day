@@ -1,1 +1,1 @@
-link: https://cheungxucheng.github.io/mother-s-day/
+link: http://192.168.1.115:3000
