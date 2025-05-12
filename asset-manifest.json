@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ai-mother-s-day/static/css/main.88934132.css",
-    "main.js": "/ai-mother-s-day/static/js/main.e2d61859.js",
+    "main.js": "/ai-mother-s-day/static/js/main.3f59e94e.js",
     "index.html": "/ai-mother-s-day/index.html",
     "main.88934132.css.map": "/ai-mother-s-day/static/css/main.88934132.css.map",
-    "main.e2d61859.js.map": "/ai-mother-s-day/static/js/main.e2d61859.js.map"
+    "main.3f59e94e.js.map": "/ai-mother-s-day/static/js/main.3f59e94e.js.map"
   },
   "entrypoints": [
     "static/css/main.88934132.css",
-    "static/js/main.e2d61859.js"
+    "static/js/main.3f59e94e.js"
   ]
 }
